@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d90e52c87001328",
+        "id": "4000706790b5be35",
         "type": "tabs",
         "children": [
           {
-            "id": "78c8088c6d7cf1ee",
+            "id": "db6afe98874cab34",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,20 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78c8088c6d7cf1ee",
+  "active": "db6afe98874cab34",
   "lastOpenFiles": [
+    "References/Klosterman2014.md",
+    "References/Koike1985.md",
+    "References/PastorGuzman2018.md",
     "Mangrove Phenology.md",
+    "References/Mizunuma2013.md",
+    "References/Dannenberg2015.md",
+    "References/Richardson2007.md",
+    "References/Richardson2013.md",
+    "References/Cleland2007.md",
+    "References/Njoku2014.md",
+    "References/LeachBurgin1985.md",
+    "Klosterman2014.md",
+    "Tree Architecture Respond to Light.md",
     "Interaction between Above- & Under-canopy.md",
     "References/IwasaRoughgarden1984.md",
     "References/Eshel2001.md",
     "References/Brouwer1963.md",
     "References/Poorter2012.md",
-    "Tree Architecture Respond to Light.md",
     "References/Wagner2011.md",
     "References/Valladares2016.md",
     "References/YoungHubbell1991.md",
     "References/Umeki1995.md",
-    "References/Koike1985.md",
     "References/MuthBazzaz2003.md",
     "Reference/MuthBazzaz2003.md",
     "Reference",

@@ -1,4 +1,12 @@
 ## Basic Information
 
 - 植物物候定义：Vegetation phenology, defined as the growing cycle of plants and involving recurring biological events such as leaf unfolding and development, flowering, leaf senescence and litterfall ([Njoku, 2014](References/Njoku2014)), regulates the timing of plant photosynthetic activity and influences directly the annual vegetation carbon uptake.
+
+## Observation Methods
+
+- 过去大多数红树林物候研究通过收集凋落物的不同组分来判断：Most studies of mangrove phenology rely on traditional field methods consisting on *in situ* collection of different components of litterfall (*e.g.*, leaves, branches, flowers, and propagules)([Leach and Burgin, 1985](References/LeachBurgin1985)). 
+- 凋落物研究表明植物凋落物物候受到多方面因素的共同作用：Those studies have indicated that litterfall dynamics and reproductive phenology of mangroves is driven by a complex interaction of ecological (species composition, competition, reproductive strategy), climatic (air temperature, precipitation, evaporation, hours of sun, wind speed), and local environmental factors (fresh water inputs, tides, flooding, soil salinity, soil nutrients) and natural disturbances (*e.g.*, hurricanes)(in [Pastor-Guzman *et al.*, 2018](References/PastorGuzman2018)).
+- 凋落物研究表明，即使红树林冠层叶片在全年四季都会生长及新老更替，但依然存在叶片凋落、生长以及繁殖的高峰：These studies revealed that although mangroves are evergreen species that produce litterfall and replace old leaves continuously throughout the year, they generally present a peak of leaf fall, leaf emergence and reproductive structures in the wet season (in [Pastor-Guzman *et al.*, 2018](References/PastorGuzman2018)).
+- 近年来人们发现气候与物候表现有强烈关联，因此植物物候研究获得了高度关注：Vegetation phenology has been a focus of attention in recent years due to a strong and measurable link between biological events and climate ([Cleland *et al.*, 2007](References/Cleland2007); [Richardson *et al.*, 2013](References/Richardson2013); [Dannenberg *et al.*, 2015](References/Dannenberg2015)).
+- 物候相机观测网络是一个新方法，它有助于降低人为观测方法中的主观判断因素，但只能观测相对较小的范围：Recently, a network of fine-resolution digital cameras installed in the field known as "phenocams", emerged as a new method to monitor vegetation phenology ([Richardson *et al.*, 2007](References/Richardson2007)). While this method reduces the subjectivity of human observations, it is limited by its relatively small spatial extent across the globe [(Mizunuma *et al.*, 2013](References/Mizunuma2013); [Klosterman *et al.*, 2014](References/Klosterman2014))].
 - 
