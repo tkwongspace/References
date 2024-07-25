@@ -1,0 +1,6 @@
+- 冠层树木决定了林下微环境 Many studies have reported the effects of overstorey trees on light availability in the understorey and related physical variables that define the microclimate (*e.g.*, radiation, temperature, air humidity, wind velocity, [Valladares *et al.*, 2016](References/Valladares2016); [Wagner *et al.*, 2011](References/Wagner2011)).
+## Biomass Allocation Strategy
+- 理论上植物各部位的生物量分配应该存在一定的比例限制，以确保相应器官生理功能的正常开展和维持：it is likely that there is a strong biological constraint on shifts in biomass allocation, caused by the intrinsic dependence of photosynthesis on the uptake of nutrients and water in the root, and the dependence of roots and stems on carbohydrates from the leaves ([Poorter *et al.*, 2012](References/Poorter2012)).
+- 组织移除实验发现植物在其生物量分配比例关系上存在很强的冗余性，并会随时间逐渐将损失的组织生物量补齐，最终各部位生物量比例关系回归到干扰前的异速生长关系上：perturbation experiments with leaf or root removal have shown that plants have a strong resilience, in that, with time, biomass allocation returns to the allometric relationships before disturbance ([Brouwer, 1963](References/Brouwer1963); [Eshel *et al.*, 2001](References/Eshel2001)).
+- 过去许多假说模型认为植物各器官功能性与其具有的生物量直接相关，但这并不准确：many models presume organ functionality to be proportional to organ mass ([Iwasa & Roughgarden, 1984](References/IwasaRoughgarden1984)), which is not necessarily true.
+- 

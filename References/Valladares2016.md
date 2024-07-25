@@ -1,0 +1,12 @@
+**AUTHORS** Fernando Valladares; Lauri Laanisto; Ülo Niinemets; Miguel A. Zavala
+**TITLE** Shedding light on shade: ecological perspectives of understorey plant life
+**YEAR** 2016
+**TYPE** Journal Article
+**JOURNAL** Plant Ecology & Diversity
+**VOLUME** 9
+**ISSUE** 3
+**PAGE** 237-251
+**DOI** 10.1080/17550874.2016.1210262
+
+**ABSTRACT**
+Shade, in ecological sense, is not merely a lack of light, but a multi-faceted phenomenon that creates new and complex settings for community and ecosystem dynamics. Tolerating shade therefore affects plants’ ability to cope with other stressors, and also shape its interactions with surrounding organisms. The aim of this broad review was to map our current knowledge about how shade affects plants, plant communities and ecosystems – to gather together knowledge of what we know, but also to point out what we do not yet know. This review covers the following topics: the nature of shade, and ecological and physiological complexities related to growing under a canopy; plants’ capability of tolerating other stress factors while living under a shade – resource trade-offs and polytolerance of abiotic stress; ontogenetic effects of shade tolerance; coexistence patterns under the canopy – how shade determines the forest structure and diversity; shade-induced abiotic dynamics in understorey vegetation, including changing patterns of irradiance, temperature and humidity under the canopy; shade-driven plant–plant and plant–animal interactions – how shade mediates facilitation and stress, and how it creates differentiated environment for different herbivores and pollinators, including the role of volatile organic compounds. We also discuss the ways how vegetation in understorey environments will be affected by climate change, as shade might play a significant role in mitigating negative effects of climate change. Our review shows that living under a shade affects biotic and abiotic stress tolerance of plants, it also influences the outcomes of both symbiotic and competitive plant–plant and plant–animal interactions in a complex and dynamic manner. The current knowledge of shade-related mechanisms is rather ample, however there is much room for progress in integrating different implications of the multifaceted nature of shade into consistent and integral understanding how communities and ecosystems function.

@@ -1,0 +1,4 @@
+- 树木会基于光可利用性调整冠层形态，比如通过改变分化生长、调整部分枝条的存活，或者将树干倾斜：Morphologically, a plant can respond to spatial variation in light availability either through differential growth and survival of individual branches and leaves or through leaning of the main stem ([Bazzaz, 1984](References/Bazzaz1984); [Young & Hubbel, 1991](YoungHubbell1991.md)).
+- 自然森林中的树木主要采取调整枝条存活和生长来应对光资源可利用性的变化： In the majority of cases, we found that canopy displacement was the result of differential branching rather than stem leaning ([Muth & Bazzaz, 2003](References/MuthBazzaz2003)).
+- 树木冠层偏移的方向通常与地形坡度或造成光照梯度的因素相关：The observations of other authors ([Koike, 1985](References/Koike1985); [Umeki 1995](References/Umeki1995)) revealed that the mean direction of canopy displacement corresponded to the direction of the slope and the light gradients.
+- 

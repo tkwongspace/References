@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "c6ffe26968d9fdc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d90e52c87001328",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78c8088c6d7cf1ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mangrove Phenology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ff97c537b7c14ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "b823b9e9db9af0d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1006908c2e6f1aee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2b81f36eabdbd0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b2d661b5a32865d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2ab637ade24675c",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeb3fbad4371026c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08a94a9aadbf8ef8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mangrove Phenology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab29d643ad1b1789",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mangrove Phenology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0435e6ca8fcd7263",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "201388a804ed604f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mangrove Phenology.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "78c8088c6d7cf1ee",
+  "lastOpenFiles": [
+    "Mangrove Phenology.md",
+    "Interaction between Above- & Under-canopy.md",
+    "References/IwasaRoughgarden1984.md",
+    "References/Eshel2001.md",
+    "References/Brouwer1963.md",
+    "References/Poorter2012.md",
+    "Tree Architecture Respond to Light.md",
+    "References/Wagner2011.md",
+    "References/Valladares2016.md",
+    "References/YoungHubbell1991.md",
+    "References/Umeki1995.md",
+    "References/Koike1985.md",
+    "References/MuthBazzaz2003.md",
+    "Reference/MuthBazzaz2003.md",
+    "Reference",
+    "References/Bazzaz1984.md",
+    "References",
+    "Reference List.md"
+  ]
+}
