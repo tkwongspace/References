@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db6afe98874cab34",
+            "id": "91571e5b5bee8b00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mangrove Phenology.md",
+                "file": "Structural & Non-Structural Carbohydrates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mangrove Phenology.md",
+                "file": "Structural & Non-Structural Carbohydrates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mangrove Phenology.md",
+                "file": "Structural & Non-Structural Carbohydrates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mangrove Phenology.md"
+                "file": "Structural & Non-Structural Carbohydrates.md"
               }
             }
           }
@@ -146,35 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db6afe98874cab34",
+  "active": "91571e5b5bee8b00",
   "lastOpenFiles": [
-    "References/Klosterman2014.md",
-    "References/Koike1985.md",
-    "References/PastorGuzman2018.md",
+    "Ref/Brum2021.md",
+    "Ref/Cleland2007.md",
+    "Structural & Non-Structural Carbohydrates.md",
+    "Ref/Doughty2014.md",
+    "Ref/Dannenberg2015.md",
+    "Ref/Janssen2020.md",
+    "Ref/IwasaRoughgarden1984.md",
+    "Ref/Klosterman2014.md",
     "Mangrove Phenology.md",
-    "References/Mizunuma2013.md",
-    "References/Dannenberg2015.md",
-    "References/Richardson2007.md",
-    "References/Richardson2013.md",
-    "References/Cleland2007.md",
-    "References/Njoku2014.md",
-    "References/LeachBurgin1985.md",
+    "Ref/Koike1985.md",
+    "Ref/PastorGuzman2018.md",
+    "Ref/Mizunuma2013.md",
+    "Ref/Richardson2007.md",
+    "Ref/Richardson2013.md",
+    "Ref/Njoku2014.md",
+    "Ref/LeachBurgin1985.md",
     "Klosterman2014.md",
     "Tree Architecture Respond to Light.md",
     "Interaction between Above- & Under-canopy.md",
-    "References/IwasaRoughgarden1984.md",
-    "References/Eshel2001.md",
-    "References/Brouwer1963.md",
-    "References/Poorter2012.md",
-    "References/Wagner2011.md",
-    "References/Valladares2016.md",
-    "References/YoungHubbell1991.md",
-    "References/Umeki1995.md",
-    "References/MuthBazzaz2003.md",
-    "Reference/MuthBazzaz2003.md",
+    "Ref/Eshel2001.md",
+    "Ref/Brouwer1963.md",
+    "Ref/Poorter2012.md",
+    "Ref/Wagner2011.md",
+    "Ref/Valladares2016.md",
+    "Ref/YoungHubbell1991.md",
+    "Ref/Umeki1995.md",
     "Reference",
-    "References/Bazzaz1984.md",
-    "References",
-    "Reference List.md"
+    "Ref"
   ]
 }

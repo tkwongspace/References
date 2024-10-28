@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "moonstone",
+  "textFontFamily": "Century Schoolbook,微软雅黑",
+  "baseFontSize": 18
 }
